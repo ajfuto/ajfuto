@@ -2,7 +2,7 @@
 
 I'm a Computer Scientist and cybersecurity professional in training based out of Orlando, Florida. I'm honored to be a recipient of the [NSF's CyberCorps Scholarship for Service](https://www.ucf.edu/news/nsf-awards-ucf-2-9-million-to-train-next-generation-of-cybersecurity-defenders/) award.
 
-[🌐 Website](https://ajfu.to) | [🔗 LinkedIn](https://linkedin.com/in/ajfuto) | [🐦 Twitter](https://twitter.com/ajfuto) | [📄 Resume](https://ajfu.to/assets/aj_futo_resume.pdf)
+[🌐 Website](https://ajfu.to) | [🔗 LinkedIn](https://linkedin.com/in/ajfuto) | [🐦 Twitter](https://twitter.com/ajfuto) | [📄 Resume](https://ajfu.to/resume)
 
 #### Cool things I'm working on...
 - 🔒 The [NSA Codebreaker Challenge](https://nsa-codebreaker.org/home) was held in the latter half of 2021. I completed 6 tasks involving network forensics, reverse engineering, and more! I also finished within the top 8% of over 5,000 registered participants!

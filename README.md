@@ -1,6 +1,5 @@
-### Hi there, I'm AJ! 👋
+hi, I'm AJ!
 
-I do cyber research, love solving unique problems, and enjoy selfhosting in my homelab. 👨🏻‍💻
+I do cybersecurity research, write lots of code, and solve fun problems.
 
-[🌐 Website](https://ajfuto.com) | [🔗 LinkedIn](https://linkedin.com/in/ajfuto)
-
+My technical interests include networking, cryptography, infrastructure-as-code, and software development.
